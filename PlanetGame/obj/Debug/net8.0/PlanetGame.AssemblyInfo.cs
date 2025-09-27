@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanetGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e8219ce31c7d7778765ee9b4e2f85cc92119afa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f274f55c1724a79f9256d4e7d818a10525a7801c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanetGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanetGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

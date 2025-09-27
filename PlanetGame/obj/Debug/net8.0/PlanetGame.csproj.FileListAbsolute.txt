@@ -29,3 +29,5 @@ D:\Проекты\PlanetGame\PlanetGame\PlanetGame\obj\Debug\net8.0\refint\Plane
 D:\Проекты\PlanetGame\PlanetGame\PlanetGame\obj\Debug\net8.0\PlanetGame.pdb
 D:\Проекты\PlanetGame\PlanetGame\PlanetGame\obj\Debug\net8.0\PlanetGame.genruntimeconfig.cache
 D:\Проекты\PlanetGame\PlanetGame\PlanetGame\obj\Debug\net8.0\ref\PlanetGame.dll
+D:\Проекты\PlanetGame\PlanetGame\PlanetGame\obj\Debug\net8.0\PlanetGame.sourcelink.json
+D:\Проекты\PlanetGame\PlanetGame\PlanetGame\bin\Debug\net8.0\Content\player.xnb
